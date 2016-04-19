@@ -1,6 +1,6 @@
 {
   "name": "atm4",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Personal tailor!!! Based on atm3, and atm3 based on fis3",
   "main": "atm.js",
   "bin": {
