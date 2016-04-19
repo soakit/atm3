@@ -1,7 +1,7 @@
 {
-  "name": "atm3",
-  "version": "3.3.21",
-  "description": "atm3 base fis3",
+  "name": "atm4",
+  "version": "0.0.1",
+  "description": "Personal tailor!!! Based on atm3, and atm3 based on fis3",
   "main": "atm.js",
   "bin": {
     "atm": "bin/fis.js"
@@ -33,12 +33,14 @@
     "fis3-errors": "*",
     "fis3-hook-relative": "*",
     "fis-parser-less": "*",
-    "atm3-command-init": "*",
-    "atm3-spriter-csssprites": "*",
     "atm3-deploy-cdn": "*",
     "fis3-postpackager-open": "*",
     "atm3-postpackager-list-html": "*",
-    "atm3-deploy-http-push": "*"
+    "atm3-deploy-http-push": "*",
+    "atm3-preprocessor-channel": "*",
+    "atm4-command-init": "*",
+    "atm4-spriter-csssprites": "*",
+    "atm4-postprocessor-px2rem": "*"
   },
   "watch": {
     "jsdoc": "lib/*.js"
@@ -52,7 +54,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/femxd/atm.git"
+    "url": "git+https://github.com/soakit/atm.git"
   },
   "keywords": [
     "atm",
@@ -64,7 +66,7 @@
   },
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/femxd/atm3/issues"
+    "url": "https://github.com/soakit/atm3/issues"
   },
   "homepage": "https://github.com/femxd/atm3",
   "maintainers": [
